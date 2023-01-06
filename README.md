@@ -1,6 +1,6 @@
 <h2 align="center"><i><strong>Hi 👋, I'm <b>Aradhana Singh</b></strong></i></h2>
 <h3 align="center"><em>A passionate learner who believes in attaining a skill set which could bring a change in the way people experience the world!</em></h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhanasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="aradhanasinghh" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhanasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="aradhanasinghh" /> </p>
 <br>
 -🌱 I’m currently learning pygame in python, Data Structures & Algorithm with Java, Advanced java, API's and Full Stack Web Devlopment.<br>
 -📫 How to reach me:-<i><b> aradhanasinghh18@gmail.com</b></i><br>
