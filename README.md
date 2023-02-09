@@ -1,5 +1,5 @@
 <h2 align="center"><i><strong>Hi 👋, I'm <b>Aradhana Singh</b></strong></i></h2>
-<h3 align="center"><em>A passionate learner who believes in attaining a skill set which could bring a change in the way people experience the world!</em></h3>
+<h3 align="center"><em> I aim to attain a skill set that can greatly enhance people's experiences.</em></h3>
 -🌱 I’m currently learning pygame in python, Data Structures & Algorithm with Java, Advanced java, API's and Full Stack Web Devlopment.<br>
 -📫 How to reach me:-<i><b> aradhanasinghh18@gmail.com</b></i><br>
 -👀 Ask me about Front End Web Development,Java, DSA, and Python.<br>
